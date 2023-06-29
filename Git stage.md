@@ -4,4 +4,7 @@ Saves your local modifications away and reverts the working directory to match t
 
 ## `git stage list <log-options>`
 
-Lists everything in the 
+- Lists everything in the stage stack
+
+
+
