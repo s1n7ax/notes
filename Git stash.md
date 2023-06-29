@@ -10,11 +10,11 @@
 - Last saved stash is at the top of the stack
 - Stack starts from 0
 
-### `git stash -m | --message`
+#### `git stash -m | --message`
 
 - Adds a message to the stash
 
-### `git stash --include-untracked`
+#### `git stash --include-untracked`
 
 - Includes untracked changes
 
@@ -30,7 +30,7 @@
 
 - Shows a list of files that has changed
 
-### `git stash show -p [stash]`
+#### `git stash show -p [stash]`
 
 - Shows a patch of the changes
 
