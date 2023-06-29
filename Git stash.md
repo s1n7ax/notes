@@ -10,7 +10,7 @@
 - Last saved stash is at the top of the stack
 - Stack starts from 0
 
-### `git stash -m|--message`
+### `git stash -m | --message`
 
 - Adds a message to the stash
 
