@@ -1,4 +1,4 @@
 Git stage
 ========================
 
-Git staging is 
+G
