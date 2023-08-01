@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Youtube/Neovim as an IDE in Sinhala/4. Navigation.md",
+                "file": "2023-08-01.md",
                 "mode": "source",
                 "source": true
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Youtube/Neovim as an IDE in Sinhala/4. Navigation.md",
+                "file": "2023-08-01.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Youtube/Neovim as an IDE in Sinhala/4. Navigation.md",
+                "file": "2023-08-01.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Youtube/Neovim as an IDE in Sinhala/4. Navigation.md"
+                "file": "2023-08-01.md"
               }
             }
           }
@@ -149,8 +149,8 @@
   "active": "748e48455c9d0d23",
   "lastOpenFiles": [
     "Youtube/Neovim as an IDE in Sinhala/4. Navigation.md",
-    "Youtube/Neovim as an IDE in Sinhala/4. Navigation.html",
     "2023-08-01.md",
+    "Youtube/Neovim as an IDE in Sinhala/4. Navigation.html",
     "Untitled.canvas",
     "Docker/Docker CLI/Cheat-sheet.md",
     "Youtube/Neovim as an IDE in Sinhala",
