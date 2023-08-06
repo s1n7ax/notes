@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Keyboard/Changing key repeat rate and interval in Linux.md",
+                "file": "Linux/Debugging.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Keyboard/Changing key repeat rate and interval in Linux.md",
+                "file": "Linux/Debugging.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Keyboard/Changing key repeat rate and interval in Linux.md",
+                "file": "Linux/Debugging.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Keyboard/Changing key repeat rate and interval in Linux.md"
+                "file": "Linux/Debugging.md"
               }
             }
           }
@@ -138,31 +138,35 @@
   },
   "left-ribbon": {
     "hiddenItems": {
+      "obsidian-excalidraw-plugin:Create new drawing": false,
+      "obsidian-advanced-slides:Show Slide Preview": false,
       "switcher:Open quick switcher": false,
       "graph:Open graph view": false,
       "canvas:Create new canvas": false,
       "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
-      "command-palette:Open command palette": false,
-      "obsidian-excalidraw-plugin:Create new drawing": false,
-      "obsidian-advanced-slides:Show Slide Preview": false
+      "command-palette:Open command palette": false
     }
   },
   "active": "15d726cbe157cb8f",
   "lastOpenFiles": [
-    "Keyboard/Moonlander/udev rules.md",
+    "Linux/Issues.md",
+    "Linux/Debugging.md",
+    "Wayland/Hyprland/Issues.md",
+    "Linux/Untitled",
+    "Untitled 1",
+    "Untitled",
     "Keyboard/Changing key repeat rate and interval in Linux.md",
+    "Wayland/Hyprland",
+    "Wayland/Untitled.md",
+    "Wayland",
+    "Keyboard/Moonlander/udev rules.md",
     "AI/Learning Tensorflow/01 Regression Model.md",
     "Git/concepts.norg",
     "Git/index.norg",
     "Git/cheatsheet.norg",
     "AI/Learning Tensorflow/index.norg",
     "AI/Learning Tensorflow/01 First Regression Model.norg",
-    "AI/Regression/index.norg",
-    "AI/Tensorflow/index.norg",
-    "AI/index.norg",
-    "AI/Math Terms.norg",
-    "AI/Regression",
     "AI/Hello.md",
     "Git/Wiki/Stash.md",
     "Youtube/Neovim as an IDE in Sinhala/4. Navigation.md",
