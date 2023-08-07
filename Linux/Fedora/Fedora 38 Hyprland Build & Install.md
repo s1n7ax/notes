@@ -1,4 +1,4 @@
-- Install following dependencies
+# Installing Dependencies
 
 ```bash
 sudo dnf install \
@@ -52,10 +52,10 @@ ninja
 ```
 
 ```bash
-sudo -E ninja install
+sudo ninja install
 ```
 
----
+# Building & Installing Hyprland 
 
 ```bash
 git clone --recursive https://github.com/hyprwm/Hyprland
