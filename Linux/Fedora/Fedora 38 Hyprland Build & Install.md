@@ -40,7 +40,7 @@ wget https://gitlab.freedesktop.org/wayland/wayland-protocols/-/releases/1.32/do
 ```
 
 ```bash
-tar xf wayland-protocols-1.32.tar.xz 
+tar xf wayland-protocols-1.32.tar.xz
 ```
 
 ```bash
