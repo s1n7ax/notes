@@ -21,7 +21,7 @@ glslang-devel \
 'pkgconfig(gbm)' \
 'pkgconfig(xkbcommon)' \
 'pkgconfig(egl)' \
-pkgconfig(wayland-server)'
+'pkgconfig(wayland-server)'
 
 ---
 - wayland-protocols-devel is 1.31 in fedora >=1.32 is needed. so manually installing it
