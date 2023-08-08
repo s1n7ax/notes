@@ -13,9 +13,9 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Linux/Fedora/Fedora 38 Setup.md",
+                "file": "Linux/Wayland/Hyprland/Get OBS Working.md",
                 "mode": "source",
-                "source": false
+                "source": true
               }
             }
           }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Linux/Fedora/Fedora 38 Setup.md",
+                "file": "Linux/Wayland/Hyprland/Get OBS Working.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Linux/Fedora/Fedora 38 Setup.md",
+                "file": "Linux/Wayland/Hyprland/Get OBS Working.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Linux/Fedora/Fedora 38 Setup.md"
+                "file": "Linux/Wayland/Hyprland/Get OBS Working.md"
               }
             }
           }
@@ -148,14 +148,15 @@
       "obsidian-advanced-slides:Show Slide Preview": false
     }
   },
-  "active": "d53b5dd947f30169",
+  "active": "3c460628bc52839d",
   "lastOpenFiles": [
-    "Linux/File/copy file but replace if the source file is bigger.md",
+    "Linux/Wayland/Hyprland/Issues.md",
+    "Linux/Wayland/Hyprland/Get OBS Working.md",
+    "Linux/Wayland/Hyprland/Video wallpaper (not working).md",
     "Linux/Fedora/Fedora 38 Setup.md",
-    "Linux/Wayland/Hyprland/Video wallpaper.md",
+    "Linux/File/copy file but replace if the source file is bigger.md",
     "Linux/GPG/Exporting Keys.md",
     "Linux/GPG/Issues.md",
-    "Linux/Wayland/Hyprland/Issues.md",
     "Linux/Wayland/Hyprland/Hyprpaper Build & Install.md",
     "Linux/Gpg/Untitled.md",
     "Linux/Untitled",
@@ -185,7 +186,6 @@
     "Youtube/Neovim as an IDE in Sinhala/4. Navigation.md",
     "Power BI/Data Quality Tools.md",
     "Untitled.md",
-    "Data Quality/Data Quality Assuarance.md",
     "OAuth 2.0/Excalidraw/OAuth 2.0 Authorization code flow.excalidraw.png",
     "export/4. Navigation/plugin/chalkboard/img/blackboard.png",
     "export/4. Navigation/plugin/chalkboard/img/boardmarker-black.png",
