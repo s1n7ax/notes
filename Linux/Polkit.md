@@ -22,3 +22,10 @@ Type=dbus
 BusName=org.freedesktop.PolicyKit1
 ExecStart=/usr/lib/polkit-1/polkitd
 ```
+
+- Restart the service
+
+```shell
+sudo systemctl daemon-reload
+sudo systemctl restart polkit
+```

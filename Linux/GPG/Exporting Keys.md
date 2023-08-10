@@ -9,3 +9,9 @@ gpg -o ~/secret-keys.asc --export-secret-key  <key>
 ```shell
 gpg --list-secret-keys
 ```
+
+- Importing a key
+
+```shell
+gpg --import <path to key>
+```

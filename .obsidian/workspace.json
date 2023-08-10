@@ -13,9 +13,21 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Linux/Wayland/Hyprland/Get OBS Working.md",
+                "file": "Linux/Arch Linux/Hyprland Screenshare for Nvidia.md",
                 "mode": "source",
-                "source": true
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "4280fa2f71790db7",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Linux/Fedora/Fedora 38 Setup.md",
+                "mode": "source",
+                "source": false
               }
             }
           }
@@ -85,7 +97,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Linux/Wayland/Hyprland/Get OBS Working.md",
+                "file": "Linux/Arch Linux/Hyprland Screenshare for Nvidia.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +114,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Linux/Wayland/Hyprland/Get OBS Working.md",
+                "file": "Linux/Arch Linux/Hyprland Screenshare for Nvidia.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +137,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Linux/Wayland/Hyprland/Get OBS Working.md"
+                "file": "Linux/Arch Linux/Hyprland Screenshare for Nvidia.md"
               }
             }
           }
@@ -150,18 +162,24 @@
   },
   "active": "3c460628bc52839d",
   "lastOpenFiles": [
-    "Linux/Wayland/Hyprland/Issues.md",
-    "Linux/Wayland/Hyprland/Get OBS Working.md",
-    "Linux/Wayland/Hyprland/Video wallpaper (not working).md",
-    "Linux/Fedora/Fedora 38 Setup.md",
-    "Linux/File/copy file but replace if the source file is bigger.md",
-    "Linux/GPG/Exporting Keys.md",
+    "Linux/Arch Linux/Setup.md",
     "Linux/GPG/Issues.md",
+    "Linux/GPG/Exporting Keys.md",
+    "Linux/Arch Linux/Hyprland Screenshare for Nvidia.md",
+    "Rust/Untitled.md",
+    "Rust",
+    "Linux/Issues.md",
+    "Linux/Polkit.md",
+    "Linux/Fedora/Fedora 38 Hyprland Build & Install.md",
+    "Linux/Fedora/Fedora 38 Setup.md",
+    "Linux/Wayland/Hyprland/Get OBS Working.md",
+    "Linux/Arch Linux/Setup",
+    "Linux/Arch Linux",
+    "Linux/Wayland/Hyprland/Issues.md",
+    "Linux/Wayland/Hyprland/Video wallpaper (not working).md",
+    "Linux/File/copy file but replace if the source file is bigger.md",
     "Linux/Wayland/Hyprland/Hyprpaper Build & Install.md",
     "Linux/Gpg/Untitled.md",
-    "Linux/Untitled",
-    "Linux/Issues.md",
-    "Linux/Fedora/Fedora 38 Hyprland Build & Install.md",
     "Linux/Fedora/Issues.md",
     "Youtube/Fedora 38/01 Experience.md",
     "Distrowatch/Fedora 38.md",
@@ -171,21 +189,15 @@
     "Linux/Passwords/Untitled.md",
     "Linux/Passwords",
     "Linux/Untitled.md",
-    "Linux/Debugging.md",
     "Linux/Fedora",
     "Untitled 1",
     "Keyboard/Changing key repeat rate and interval in Linux.md",
     "Linux/Wayland/Hyprland",
     "Wayland/Untitled.md",
-    "Linux/Wayland",
     "Keyboard/Moonlander/udev rules.md",
     "AI/Learning Tensorflow/01 Regression Model.md",
-    "Git/concepts.norg",
     "AI/Hello.md",
     "Git/Wiki/Stash.md",
-    "Youtube/Neovim as an IDE in Sinhala/4. Navigation.md",
-    "Power BI/Data Quality Tools.md",
-    "Untitled.md",
     "OAuth 2.0/Excalidraw/OAuth 2.0 Authorization code flow.excalidraw.png",
     "export/4. Navigation/plugin/chalkboard/img/blackboard.png",
     "export/4. Navigation/plugin/chalkboard/img/boardmarker-black.png",
