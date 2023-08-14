@@ -13,21 +13,9 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Linux/Arch Linux/Hyprland Screenshare for Nvidia.md",
+                "file": "Youtube/2023 Arch Linux Installation.md",
                 "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "4280fa2f71790db7",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Linux/Fedora/Fedora 38 Setup.md",
-                "mode": "source",
-                "source": false
+                "source": true
               }
             }
           }
@@ -81,7 +69,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 359.5
+    "width": 262.5
   },
   "right": {
     "id": "f8413761abfdc2ed",
@@ -97,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Linux/Arch Linux/Hyprland Screenshare for Nvidia.md",
+                "file": "Youtube/2023 Arch Linux Installation.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -114,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Linux/Arch Linux/Hyprland Screenshare for Nvidia.md",
+                "file": "Youtube/2023 Arch Linux Installation.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -137,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Linux/Arch Linux/Hyprland Screenshare for Nvidia.md"
+                "file": "Youtube/2023 Arch Linux Installation.md"
               }
             }
           }
@@ -162,19 +150,43 @@
   },
   "active": "3c460628bc52839d",
   "lastOpenFiles": [
-    "Linux/Arch Linux/Setup.md",
-    "Linux/GPG/Issues.md",
-    "Linux/GPG/Exporting Keys.md",
-    "Linux/Arch Linux/Hyprland Screenshare for Nvidia.md",
-    "Rust/Untitled.md",
-    "Rust",
     "Linux/Issues.md",
     "Linux/Polkit.md",
-    "Linux/Fedora/Fedora 38 Hyprland Build & Install.md",
+    "Linux/Flatpak/Downgrade Applications.md",
     "Linux/Fedora/Fedora 38 Setup.md",
+    "Youtube/2023 Arch Linux Installation.md",
+    "Linux/Flatpak",
+    "export/2023 Arch Linux Installation/plugin/chalkboard/README.md",
+    "export/2023 Arch Linux Installation/plugin/chalkboard/_style.css",
+    "export/2023 Arch Linux Installation/plugin/chalkboard/img/blackboard.png",
+    "export/2023 Arch Linux Installation/plugin/chalkboard/img/boardmarker-black.png",
+    "export/2023 Arch Linux Installation/plugin/chalkboard/img/boardmarker-blue.png",
+    "export/2023 Arch Linux Installation/plugin/chalkboard/img/boardmarker-green.png",
+    "export/2023 Arch Linux Installation/plugin/chalkboard/img/boardmarker-orange.png",
+    "export/2023 Arch Linux Installation/plugin/chalkboard/img/boardmarker-purple.png",
+    "export/2023 Arch Linux Installation/plugin/chalkboard/img/boardmarker-red.png",
+    "export/2023 Arch Linux Installation/plugin/chalkboard/img/boardmarker-yellow.png",
+    "export/2023 Arch Linux Installation/plugin/chalkboard/img/chalk-blue.png",
+    "export/2023 Arch Linux Installation/plugin/chalkboard/img/chalk-green.png",
+    "export/2023 Arch Linux Installation/plugin/chalkboard/img",
+    "export/2023 Arch Linux Installation/plugin/chalkboard/plugin (copy).js",
+    "export/2023 Arch Linux Installation/plugin/chalkboard/style.css",
+    "export/2023 Arch Linux Installation/plugin/chalkboard/plugin.js",
+    "export/2023 Arch Linux Installation/plugin/chalkboard",
+    "export/2023 Arch Linux Installation/plugin/chart/README.md",
+    "export/2023 Arch Linux Installation/plugin/chart/plugin.js",
+    "export/2023 Arch Linux Installation/plugin/chart/chart.min.js",
+    "export/2023 Arch Linux Installation/plugin/chart",
+    "export/2023 Arch Linux Installation/plugin/customcontrols/README.md",
+    "export/2023 Arch Linux Installation/plugin/menu/CONTRIBUTING.md",
+    "export/2023 Arch Linux Installation/plugin/menu/README.md",
+    "Linux/Arch Linux/Setup.md",
+    "Linux/Arch Linux/Hyprland Screenshare for Nvidia.md",
+    "Linux/GPG/Issues.md",
+    "Linux/GPG/Exporting Keys.md",
+    "Rust/Untitled.md",
+    "Linux/Fedora/Fedora 38 Hyprland Build & Install.md",
     "Linux/Wayland/Hyprland/Get OBS Working.md",
-    "Linux/Arch Linux/Setup",
-    "Linux/Arch Linux",
     "Linux/Wayland/Hyprland/Issues.md",
     "Linux/Wayland/Hyprland/Video wallpaper (not working).md",
     "Linux/File/copy file but replace if the source file is bigger.md",
@@ -183,31 +195,7 @@
     "Linux/Fedora/Issues.md",
     "Youtube/Fedora 38/01 Experience.md",
     "Distrowatch/Fedora 38.md",
-    "Distrowatch",
-    "Youtube/Fedora 38",
-    "Linux/GPG",
     "Linux/Passwords/Untitled.md",
-    "Linux/Passwords",
-    "Linux/Untitled.md",
-    "Linux/Fedora",
-    "Untitled 1",
-    "Keyboard/Changing key repeat rate and interval in Linux.md",
-    "Linux/Wayland/Hyprland",
-    "Wayland/Untitled.md",
-    "Keyboard/Moonlander/udev rules.md",
-    "AI/Learning Tensorflow/01 Regression Model.md",
-    "AI/Hello.md",
-    "Git/Wiki/Stash.md",
-    "OAuth 2.0/Excalidraw/OAuth 2.0 Authorization code flow.excalidraw.png",
-    "export/4. Navigation/plugin/chalkboard/img/blackboard.png",
-    "export/4. Navigation/plugin/chalkboard/img/boardmarker-black.png",
-    "export/4. Navigation/plugin/chalkboard/img/boardmarker-blue.png",
-    "export/4. Navigation/plugin/chalkboard/img/boardmarker-green.png",
-    "export/4. Navigation/plugin/chalkboard/img/boardmarker-orange.png",
-    "export/4. Navigation/plugin/chalkboard/img/boardmarker-purple.png",
-    "export/4. Navigation/plugin/chalkboard/img/boardmarker-red.png",
-    "export/4. Navigation/plugin/chalkboard/img/boardmarker-yellow.png",
-    "export/4. Navigation/plugin/chalkboard/img/chalk-blue.png",
     "Untitled.canvas"
   ]
 }

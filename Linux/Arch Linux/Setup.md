@@ -15,7 +15,6 @@ sudo pacman -S \
 hyprland \
 nvidia \
 alacritty \
-alacritty \
 wofi \
 curl \
 git \
