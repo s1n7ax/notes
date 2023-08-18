@@ -1,8 +1,22 @@
+# What is Arch Linux
+
+A Linux distribution that is,
+1. Highly customizable
+2. Lightweight
+3. DIY
+4. Rolling release
+
+---
+
 # Why Arch Linux
 
 1. Because you can flex on internet
-2. To learn how Linux distributions work
-3. Latest and the greatest software
+2. Privilege to say "BTW I use Arch"
+3. To learn how Linux distributions work
+4. Latest and the greatest software
+5. AUR
+
+---
 
 # UEFI vs BIOS
 
@@ -35,35 +49,7 @@ These are types of firmware in your mother board
 
 ---
 
-# Pre-requsites
+# Pre-requisites
 
 - Internet connection
 - Pen drive 4GB
-
----
-
-# Creating the bootable drive
-
-On Windows, follow [these steps](https://wiki.archlinux.org/title/USB_flash_installation_medium#In_Windows)
-
-- Download the ISO
-- Verify the ISO
-- Find the drive
-
-```shell
-lsblk -o model,name,size,label
-```
-
-- Create the bootable USB
-
-```shell
-dd \
-bs=4M \
-if=archlinux.iso \
-of=/dev/device \
-conv=fsync \
-oflag=direct \
-status=progress
-```
-
----
