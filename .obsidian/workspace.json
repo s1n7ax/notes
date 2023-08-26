@@ -11,8 +11,12 @@
             "id": "edccf6c926fa5580",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "SSH/SSH between two computers.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ]
@@ -65,7 +69,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 406.5
   },
   "right": {
     "id": "f8413761abfdc2ed",
@@ -81,6 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "SSH/SSH between two computers.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -97,6 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "SSH/SSH between two computers.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -118,7 +124,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "SSH/SSH between two computers.md"
+              }
             }
           }
         ]
@@ -142,12 +150,21 @@
   },
   "active": "edccf6c926fa5580",
   "lastOpenFiles": [
+    "Linux/Network Manager/Static IP.md",
+    "SSH/SSH between two computers.md",
+    "SSH",
+    "Linux/KVM, QEMU & libvirt/Make Windows better again.md",
+    "Linux/Network Manager/Static IP",
+    "Linux/Network Manager",
+    "OAuth 2.0/Getting Started with OAuth 2.0.md",
+    "Linux/KVM, QEMU & libvirt",
+    "Linux/Untitled.md",
+    "OAuth 2.0/Excalidraw/OAuth 2.0 Authorization code flow.excalidraw.md",
     "Untitled.canvas",
     "Linux/Virtualization/Windows/Windows Minimum system requirement error.md",
     "Youtube/2023 Arch Linux Installation.md",
     "Linux/Virtualization/Windows",
     "Linux/Virtualization",
-    "Linux/Untitled.md",
     "Linux/Issues.md",
     "Linux/Polkit.md",
     "Linux/Flatpak/Downgrade Applications.md",
@@ -167,11 +184,7 @@
     "export/2023 Arch Linux Installation/plugin/chalkboard/img/chalk-green.png",
     "export/2023 Arch Linux Installation/plugin/chalkboard/img",
     "export/2023 Arch Linux Installation/plugin/chalkboard/plugin (copy).js",
-    "export/2023 Arch Linux Installation/plugin/chalkboard/style.css",
-    "export/2023 Arch Linux Installation/plugin/chalkboard/plugin.js",
-    "export/2023 Arch Linux Installation/plugin/chalkboard",
     "export/2023 Arch Linux Installation/plugin/chart/README.md",
-    "export/2023 Arch Linux Installation/plugin/chart/plugin.js",
     "export/2023 Arch Linux Installation/plugin/customcontrols/README.md",
     "export/2023 Arch Linux Installation/plugin/menu/CONTRIBUTING.md",
     "export/2023 Arch Linux Installation/plugin/menu/README.md",
@@ -183,10 +196,6 @@
     "Linux/Fedora/Fedora 38 Hyprland Build & Install.md",
     "Linux/Wayland/Hyprland/Get OBS Working.md",
     "Linux/Wayland/Hyprland/Issues.md",
-    "Linux/Wayland/Hyprland/Video wallpaper (not working).md",
-    "Linux/File/copy file but replace if the source file is bigger.md",
-    "Linux/Wayland/Hyprland/Hyprpaper Build & Install.md",
-    "Linux/Gpg/Untitled.md",
-    "Linux/Fedora/Issues.md"
+    "Linux/Wayland/Hyprland/Video wallpaper (not working).md"
   ]
 }
