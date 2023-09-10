@@ -4,18 +4,18 @@
     "type": "split",
     "children": [
       {
-        "id": "4907fecb9c307a44",
+        "id": "86c5691970dec7ef",
         "type": "tabs",
         "children": [
           {
-            "id": "41d9fb216271a6f4",
+            "id": "ab074d6e496be79e",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Linux/DHCPCD/Static IP.md",
+                "file": "Linux/Systemd/List Targets.md",
                 "mode": "source",
-                "source": false
+                "source": true
               }
             }
           }
@@ -48,7 +48,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "systemd",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -86,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Linux/DHCPCD/Static IP.md",
+                "file": "Linux/Systemd/List Targets.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Linux/DHCPCD/Static IP.md",
+                "file": "Linux/Systemd/List Targets.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Linux/DHCPCD/Static IP.md"
+                "file": "Linux/Systemd/List Targets.md"
               }
             }
           }
@@ -149,9 +149,21 @@
       "obsidian-advanced-slides:Show Slide Preview": false
     }
   },
-  "active": "41d9fb216271a6f4",
+  "active": "ab074d6e496be79e",
   "lastOpenFiles": [
+    "Linux/OpenVPN/Setting Up OpenVPN.md",
+    "Linux/OpenVPN/Persistent password.md",
+    "Linux/File/copy file but replace if the source file is bigger.md",
+    "AI/Learning Tensorflow/01 Tensorflow Fundamentals.md",
+    "Linux/OpenVPN",
+    "AI/Learning Tensorflow/00 Introduction.md",
+    "AI/Learning Tensorflow/02 Regression Model.md",
+    "Linux/GPG/Exporting Keys.md",
+    "Linux/Permissions/How permissions work on Linux.md",
+    "Linux/Networking/Change network interaface name.md",
+    "Linux/Permissions",
     "Nextcloud/Configuring Nextcloud Office.md",
+    "Linux/Networking",
     "Linux/DHCPCD/Static IP.md",
     "Linux/Network Manager/Static IP.md",
     "Docker/Networking.md",
@@ -175,19 +187,7 @@
     "Youtube/2023-0 Arch Linux Installation.md",
     "Linux/Virtualization/Virtual Box Guest Additions.md",
     "Linux/Virtualization/KVM, QEMU & libvirt/Make Windows better again (Doesn't fix lagging cursor).md",
-    "Linux/Virtualization/Windows/Windows Minimum system requirement error.md",
-    "SSH",
-    "Linux/Network Manager/Static IP",
-    "Linux/Network Manager",
-    "OAuth 2.0/Getting Started with OAuth 2.0.md",
-    "Linux/Untitled.md",
-    "OAuth 2.0/Excalidraw/OAuth 2.0 Authorization code flow.excalidraw.md",
     "Untitled.canvas",
-    "Linux/Issues.md",
-    "Linux/Polkit.md",
-    "Linux/Flatpak/Downgrade Applications.md",
-    "Linux/Fedora/Fedora 38 Setup.md",
-    "export/2023 Arch Linux Installation/plugin/chalkboard/README.md",
     "export/2023 Arch Linux Installation/plugin/chalkboard/img/blackboard.png",
     "export/2023 Arch Linux Installation/plugin/chalkboard/img/boardmarker-black.png",
     "export/2023 Arch Linux Installation/plugin/chalkboard/img/boardmarker-blue.png",
