@@ -48,7 +48,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "systemd",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -65,8 +65,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -151,6 +150,9 @@
   },
   "active": "ab074d6e496be79e",
   "lastOpenFiles": [
+    "Linux/Systemd/Auto mount using systemd.md",
+    "Linux/Systemd/List Targets.md",
+    "Linux/Untitled",
     "Linux/OpenVPN/Setting Up OpenVPN.md",
     "Linux/OpenVPN/Persistent password.md",
     "Linux/File/copy file but replace if the source file is bigger.md",
@@ -181,12 +183,9 @@
     "Linux/Nix",
     "Linux/FFMPEG/Get video info.md",
     "Linux/Video/camera/Camera to obs.md",
-    "Linux/FFMPEG",
     "Linux/Video/davinci resolve/importing h264 mp4.md",
     "Youtube/2023-08-28 NixOS.md",
     "Youtube/2023-0 Arch Linux Installation.md",
-    "Linux/Virtualization/Virtual Box Guest Additions.md",
-    "Linux/Virtualization/KVM, QEMU & libvirt/Make Windows better again (Doesn't fix lagging cursor).md",
     "Untitled.canvas",
     "export/2023 Arch Linux Installation/plugin/chalkboard/img/blackboard.png",
     "export/2023 Arch Linux Installation/plugin/chalkboard/img/boardmarker-black.png",
