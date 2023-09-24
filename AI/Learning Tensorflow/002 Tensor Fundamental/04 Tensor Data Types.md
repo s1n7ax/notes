@@ -1,5 +1,10 @@
 # Tensor Data Types (dtype)
 
+## Summary
+
+- Auto data type
+- Set data type
+
 ## Auto dtype
 
 Type will be determined based on the value being passed

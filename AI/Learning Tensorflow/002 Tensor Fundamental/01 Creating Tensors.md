@@ -1,5 +1,12 @@
 # Creating Tensors
 
+## Summary
+
+- tf.constant()
+- tf.Variable()
+
+# Creating Tensors
+
 1. tf.constant()
    - Once created, cannot be changed
 2. tf.Variable()
@@ -27,6 +34,10 @@ vector = tf.Variable([1, 2, 3])
 vector.assign([4, 5, 6])
 vector
 # <tf.Variable 'Variable:0' shape=(3,) dtype=int32, numpy=array([4, 5, 6], dtype=int32)>
+
+vector[0].assign(1)
+vector
+# <tf.Variable 'Variable:0' shape=(3,) dtype=int32, numpy=array([1, 5, 6], dtype=int32)>
 ```
 
 ## Variable vs Constant function

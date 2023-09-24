@@ -1,5 +1,7 @@
 # Tensor Shapes
 
+## Summary
+
 Mainly, we will talk about following data types
 
 - Scalar
