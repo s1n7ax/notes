@@ -3,7 +3,7 @@
 ## Summary
 
 - Auto data type
-- Set data type
+- Set data type on creation
 
 ## Auto dtype
 
