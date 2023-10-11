@@ -18,21 +18,8 @@
                 "source": false
               }
             }
-          },
-          {
-            "id": "8bf562475c6f89bf",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Maths/Variance.md",
-                "mode": "source",
-                "source": false
-              }
-            }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -98,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Maths/Variance.md",
+                "file": "AI/Learning Tensorflow/002 Tensor Fundamental/05 Random Tensors.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Maths/Variance.md",
+                "file": "AI/Learning Tensorflow/002 Tensor Fundamental/05 Random Tensors.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Maths/Variance.md"
+                "file": "AI/Learning Tensorflow/002 Tensor Fundamental/05 Random Tensors.md"
               }
             }
           },
@@ -171,12 +158,15 @@
       "obsidian-advanced-slides:Show Slide Preview": false
     }
   },
-  "active": "8bf562475c6f89bf",
+  "active": "ab074d6e496be79e",
   "lastOpenFiles": [
+    "Linux/Nix/nix flake/Starting a nix flake.md",
+    "Linux/Nix/nix flake/Updating home manager.md",
+    "Linux/Nix/nix flake/Untitled.md",
+    "Maths/Variance.md",
     "AI/Learning Tensorflow/002 Tensor Fundamental/15 Min Max Position.md",
     "Maths/Probability/02 Uniform Probability Distribution.md",
     "Maths/Probability/01 Probability Basics.md",
-    "Maths/Variance.md",
     "Maths/Probability/Uniform Distribution.png",
     "Maths/Probability/Normal Probability Distribution.md",
     "Maths/Probability/Normal Distribution.png",
@@ -189,7 +179,6 @@
     "Linux/Networking/IWD",
     "Linux/Nix/nix-pill/02 nix-store.md",
     "Linux/Nix/nix-pill/01 nix-env.md",
-    "Linux/Nix/nix flake/Starting a nix flake.md",
     "Linux/Nix/nix flake",
     "Linux/TTY/Setting the font permenantly.md",
     "Linux/Nix/nix-pill",
@@ -209,8 +198,6 @@
     "AI/Learning Tensorflow/002 Tensor Fundamental/06 Shuffle",
     "Maths/Probability",
     "Maths",
-    "Linux/Udisks2/Mounting Encrypted Drives.md",
-    "Linux/Issues.md",
     "Untitled.canvas",
     "export/2023 Arch Linux Installation/plugin/chalkboard/img/blackboard.png",
     "export/2023 Arch Linux Installation/plugin/chalkboard/img/boardmarker-black.png",

@@ -26,5 +26,6 @@ git add .
 - Run nix build to build the flake
 
 ```shell
-nix build
+# -L for build logs
+nix build -L .
 ```
