@@ -65,7 +65,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -158,7 +159,7 @@
       "obsidian-advanced-slides:Show Slide Preview": false
     }
   },
-  "active": "ab074d6e496be79e",
+  "active": "c8001e18a4114402",
   "lastOpenFiles": [
     "Linux/Nix/nix flake/Starting a nix flake.md",
     "Linux/Nix/nix flake/Updating home manager.md",
