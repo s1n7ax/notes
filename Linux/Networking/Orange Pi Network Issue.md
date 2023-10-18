@@ -1,0 +1,1 @@
+- Use the mac ID of the interface in NetworkManager to avoid sudden mac changes

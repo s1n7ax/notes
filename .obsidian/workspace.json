@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "AI/Learning Tensorflow/002 Tensor Fundamental/05 Random Tensors.md",
+                "file": "SSH/SSH between two computers.md",
                 "mode": "source",
                 "source": false
               }
@@ -48,7 +48,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "orange",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -65,8 +65,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -86,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "AI/Learning Tensorflow/002 Tensor Fundamental/05 Random Tensors.md",
+                "file": "SSH/SSH between two computers.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "AI/Learning Tensorflow/002 Tensor Fundamental/05 Random Tensors.md",
+                "file": "SSH/SSH between two computers.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "AI/Learning Tensorflow/002 Tensor Fundamental/05 Random Tensors.md"
+                "file": "SSH/SSH between two computers.md"
               }
             }
           },
@@ -159,8 +158,12 @@
       "obsidian-advanced-slides:Show Slide Preview": false
     }
   },
-  "active": "c8001e18a4114402",
+  "active": "ab074d6e496be79e",
   "lastOpenFiles": [
+    "Linux/Networking/Orange Pi Network Issue.md",
+    "SSH/SSH between two computers.md",
+    "Linux/TTY/Setting the font permenantly.md",
+    "AI/Learning Tensorflow/002 Tensor Fundamental/05 Random Tensors.md",
     "Linux/Nix/nix flake/Starting a nix flake.md",
     "Linux/Nix/nix flake/Updating home manager.md",
     "Linux/Nix/nix flake/Untitled.md",
@@ -181,7 +184,6 @@
     "Linux/Nix/nix-pill/02 nix-store.md",
     "Linux/Nix/nix-pill/01 nix-env.md",
     "Linux/Nix/nix flake",
-    "Linux/TTY/Setting the font permenantly.md",
     "Linux/Nix/nix-pill",
     "Rust/Rustup/Fix cargo-leptos compile errors.md",
     "Linux/TTY",
@@ -193,9 +195,6 @@
     "Linux/DHCPCD/Speed up DHCPCD in Home network.md",
     "Rust/World's Best Dark-Mode Toggle/Untitled.md",
     "Rust/World's Best Dark-Mode Toggle",
-    "AI/Learning Tensorflow/002 Tensor Fundamental/07 Numpy Array to Tensor.md",
-    "AI/Learning Tensorflow/002 Tensor Fundamental/06 Shuffle Tensor Elements.md",
-    "AI/Learning Tensorflow/002 Tensor Fundamental/05 Random Tensors.md",
     "AI/Learning Tensorflow/002 Tensor Fundamental/06 Shuffle",
     "Maths/Probability",
     "Maths",
