@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "SSH/SSH between two computers.md",
+                "file": "AI/Learning Tensorflow/003 Regression Models/06 Visualization.md",
                 "mode": "source",
                 "source": false
               }
@@ -48,7 +48,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "orange",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "SSH/SSH between two computers.md",
+                "file": "AI/Learning Tensorflow/003 Regression Models/06 Visualization.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "SSH/SSH between two computers.md",
+                "file": "AI/Learning Tensorflow/003 Regression Models/06 Visualization.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "SSH/SSH between two computers.md"
+                "file": "AI/Learning Tensorflow/003 Regression Models/06 Visualization.md"
               }
             }
           },
@@ -160,8 +160,17 @@
   },
   "active": "ab074d6e496be79e",
   "lastOpenFiles": [
-    "Linux/Networking/Orange Pi Network Issue.md",
+    "AI/Learning Tensorflow/003 Regression Models/Images/Pasted image 20231024182807.png",
+    "Linux/Rclone/Sync Dropbox with Rclone.md",
+    "Linux/OpenVPN/Persistent password.md",
+    "Linux/OpenVPN/Setting Up OpenVPN.md",
+    "AI/Learning Tensorflow/003 Regression Models/06 Visualization.md",
+    "AI/Learning Tensorflow/003 Regression Models/Images/Pasted image 20231020221539.png",
+    "AI/Learning Tensorflow/003 Regression Models/Images",
+    "AI/Learning Tensorflow/003 Regression Models/Images/Pasted image 20231020220634.png",
+    "AI/Learning Tensorflow/003 Regression Models/07 Trainable & Non Trainable Parameters.md",
     "SSH/SSH between two computers.md",
+    "Linux/Networking/Orange Pi Network Issue.md",
     "Linux/TTY/Setting the font permenantly.md",
     "AI/Learning Tensorflow/002 Tensor Fundamental/05 Random Tensors.md",
     "Linux/Nix/nix flake/Starting a nix flake.md",
@@ -187,25 +196,16 @@
     "Linux/Nix/nix-pill",
     "Rust/Rustup/Fix cargo-leptos compile errors.md",
     "Linux/TTY",
-    "Rust/Rustup/Installing rust-analyzer.md",
     "Rust/Rustup",
-    "Rust/Untitled.md",
-    "Docker/Docker CLI/Cheat-sheet.md",
-    "Rust/World's Best Dark-Mode Toggle.md",
-    "Linux/DHCPCD/Speed up DHCPCD in Home network.md",
-    "Rust/World's Best Dark-Mode Toggle/Untitled.md",
     "Rust/World's Best Dark-Mode Toggle",
     "AI/Learning Tensorflow/002 Tensor Fundamental/06 Shuffle",
     "Maths/Probability",
-    "Maths",
     "Untitled.canvas",
     "export/2023 Arch Linux Installation/plugin/chalkboard/img/blackboard.png",
     "export/2023 Arch Linux Installation/plugin/chalkboard/img/boardmarker-black.png",
     "export/2023 Arch Linux Installation/plugin/chalkboard/img/boardmarker-blue.png",
     "export/2023 Arch Linux Installation/plugin/chalkboard/img/boardmarker-green.png",
     "export/2023 Arch Linux Installation/plugin/chalkboard/img/boardmarker-orange.png",
-    "export/2023 Arch Linux Installation/plugin/chalkboard/img/boardmarker-purple.png",
-    "export/2023 Arch Linux Installation/plugin/chalkboard/img/boardmarker-red.png",
-    "export/2023 Arch Linux Installation/plugin/chalkboard/img/boardmarker-yellow.png"
+    "export/2023 Arch Linux Installation/plugin/chalkboard/img/boardmarker-purple.png"
   ]
 }

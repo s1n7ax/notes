@@ -1,35 +1,32 @@
-- A file that contains the username and the password can be passed to OpenVPN using `--auth-user-pass` flag
-
-Following systemd service can be used to get the username and password from `/etc/openvpn/pass.txt` and start the connction
+- Add the username and password in a file
 
 ```
-[Unit]
-Description=OpenVPN connection to %i
-PartOf=openvpn.service
-Before=systemd-user-sessions.service
-After=network-online.target
-Wants=network-online.target
-Documentation=man:openvpn(8)
-Documentation=https://community.openvpn.net/openvpn/wiki/Openvpn24ManPage
-Documentation=https://community.openvpn.net/openvpn/wiki/HOWTO
+<username>
+<password>
+```
 
-[Service]
-Type=notify
-PrivateTmp=true
-WorkingDirectory=/etc/openvpn
-ExecStart=/usr/sbin/openvpn --daemon ovpn-%i --status /run/openvpn/%i.status 10 --cd /etc/openvpn --config /etc/openvpn/%i.ovpn --writepid /run/openvpn/%
-i.pid --auth-user-pass /etc/openvpn/pass.txt
-PIDFile=/run/openvpn/%i.pid
-KillMode=process
-CapabilityBoundingSet=CAP_IPC_LOCK CAP_NET_ADMIN CAP_NET_BIND_SERVICE CAP_NET_RAW CAP_SETGID CAP_SETUID CAP_SYS_CHROOT CAP_DAC_OVERRIDE CAP_AUDIT_WRITE
-TasksMax=10
-DeviceAllow=/dev/null rw
-DeviceAllow=/dev/net/tun rw
-ProtectSystem=true
-ProtectHome=true
-RestartSec=5s
-Restart=on-failure
+- Set permissions for the password file
 
-[Install]
-WantedBy=multi-user.target
+```shell
+chown root:root /etc/path/to/file.txt
+chmod 000 /etc/path/to/file.txt
+```
+
+- Edit systemd service to check the file for username and password
+
+```
+# add --auth-user-pass /etc/path/to/file.txt
+ExecStart=/usr/sbin/openvpn --daemon ovpn-%i --status /run/openvpn/%i.status 10 --cd /etc/openvpn --config /etc/openvpn/%i.ovpn --writepid /run/openvpn/% i.pid --auth-user-pass /etc/path/to/file.txt
+```
+
+- Reload the daemon
+
+```shell
+sudo systemctl daemon-reload
+```
+
+- Start the service
+
+```
+systemctl enable --now openvpn@server1
 ```
