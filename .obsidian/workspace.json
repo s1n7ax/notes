@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Linux/File/copy file but replace if the source file is bigger.md",
+                "file": "Android/flashing custom rom.md",
                 "mode": "source",
                 "source": false
               }
@@ -48,7 +48,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "rsync",
+                "query": "adb",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -86,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Linux/File/copy file but replace if the source file is bigger.md",
+                "file": "Android/flashing custom rom.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Linux/File/copy file but replace if the source file is bigger.md",
+                "file": "Android/flashing custom rom.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Linux/File/copy file but replace if the source file is bigger.md"
+                "file": "Android/flashing custom rom.md"
               }
             }
           },
@@ -161,6 +161,11 @@
   },
   "active": "ab074d6e496be79e",
   "lastOpenFiles": [
+    "Linux/Nix/NixOS Clean Up.md",
+    "Linux/Nix/nix-pill/01 nix-env.md",
+    "Linux/Nix/nix flake/Starting a nix flake.md",
+    "Linux/Nix/nix-pill/03 nix language basics.md",
+    "Linux/File/copy file but replace if the source file is bigger.md",
     "AI/Learning Tensorflow/003 Regression Models/06 Visualization.md",
     "AI/Learning Tensorflow/003 Regression Models/Images/Pasted image 20231024182807.png",
     "Linux/Rclone/Sync Dropbox with Rclone.md",
@@ -174,7 +179,6 @@
     "Linux/Networking/Orange Pi Network Issue.md",
     "Linux/TTY/Setting the font permenantly.md",
     "AI/Learning Tensorflow/002 Tensor Fundamental/05 Random Tensors.md",
-    "Linux/Nix/nix flake/Starting a nix flake.md",
     "Linux/Nix/nix flake/Updating home manager.md",
     "Linux/Nix/nix flake/Untitled.md",
     "Maths/Variance.md",
@@ -189,13 +193,10 @@
     "AI/Learning Tensorflow/002 Tensor Fundamental/09 Indexing Tensors.md",
     "AI/Learning Tensorflow/002 Tensor Fundamental/08 Attributes of Tensors.md",
     "Linux/Networking/IWD/IWD won't reconnect (Doesn't work).md",
-    "Linux/Nix/nix-pill/03 nix language basics.md",
     "Linux/Networking/IWD",
     "Linux/Nix/nix-pill/02 nix-store.md",
-    "Linux/Nix/nix-pill/01 nix-env.md",
     "Linux/Nix/nix flake",
     "Linux/Nix/nix-pill",
-    "Rust/Rustup/Fix cargo-leptos compile errors.md",
     "Linux/TTY",
     "Rust/Rustup",
     "Rust/World's Best Dark-Mode Toggle",
