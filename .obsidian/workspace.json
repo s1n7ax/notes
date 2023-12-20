@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Android/flashing custom rom.md",
+                "file": "AI/Learning Tensorflow/003 Regression Models/10 Visualizing the Loss.md",
                 "mode": "source",
                 "source": false
               }
@@ -65,8 +65,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -86,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Android/flashing custom rom.md",
+                "file": "AI/Learning Tensorflow/003 Regression Models/10 Visualizing the Loss.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Android/flashing custom rom.md",
+                "file": "AI/Learning Tensorflow/003 Regression Models/10 Visualizing the Loss.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Android/flashing custom rom.md"
+                "file": "AI/Learning Tensorflow/003 Regression Models/10 Visualizing the Loss.md"
               }
             }
           },
@@ -159,8 +158,10 @@
       "obsidian-advanced-slides:Show Slide Preview": false
     }
   },
-  "active": "ab074d6e496be79e",
+  "active": "d53b5dd947f30169",
   "lastOpenFiles": [
+    "AI/Learning Tensorflow/003 Regression Models/Images/Pasted image 20231220235618.png",
+    "Android/flashing custom rom.md",
     "Linux/Nix/NixOS Clean Up.md",
     "Linux/Nix/nix-pill/01 nix-env.md",
     "Linux/Nix/nix flake/Starting a nix flake.md",
@@ -192,9 +193,7 @@
     "Maths/Untitled",
     "AI/Learning Tensorflow/002 Tensor Fundamental/09 Indexing Tensors.md",
     "AI/Learning Tensorflow/002 Tensor Fundamental/08 Attributes of Tensors.md",
-    "Linux/Networking/IWD/IWD won't reconnect (Doesn't work).md",
     "Linux/Networking/IWD",
-    "Linux/Nix/nix-pill/02 nix-store.md",
     "Linux/Nix/nix flake",
     "Linux/Nix/nix-pill",
     "Linux/TTY",
