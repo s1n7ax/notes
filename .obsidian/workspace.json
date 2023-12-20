@@ -158,8 +158,9 @@
       "obsidian-advanced-slides:Show Slide Preview": false
     }
   },
-  "active": "d53b5dd947f30169",
+  "active": "ab074d6e496be79e",
   "lastOpenFiles": [
+    "AI/Learning Tensorflow/003 Regression Models/11 Using Normalization to Improve Medical Cost Data Set.md",
     "AI/Learning Tensorflow/003 Regression Models/Images/Pasted image 20231220235618.png",
     "Android/flashing custom rom.md",
     "Linux/Nix/NixOS Clean Up.md",
@@ -205,7 +206,6 @@
     "export/2023 Arch Linux Installation/plugin/chalkboard/img/blackboard.png",
     "export/2023 Arch Linux Installation/plugin/chalkboard/img/boardmarker-black.png",
     "export/2023 Arch Linux Installation/plugin/chalkboard/img/boardmarker-blue.png",
-    "export/2023 Arch Linux Installation/plugin/chalkboard/img/boardmarker-green.png",
-    "export/2023 Arch Linux Installation/plugin/chalkboard/img/boardmarker-orange.png"
+    "export/2023 Arch Linux Installation/plugin/chalkboard/img/boardmarker-green.png"
   ]
 }
