@@ -8,14 +8,12 @@
         "type": "tabs",
         "children": [
           {
-            "id": "ab074d6e496be79e",
+            "id": "ea6847feabc797bf",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "image",
               "state": {
-                "file": "AI/Learning Tensorflow/003 Regression Models/10 Visualizing the Loss.md",
-                "mode": "source",
-                "source": false
+                "file": "AI/Learning Tensorflow/004 Classification/images/Pasted image 20231227131315.png"
               }
             }
           }
@@ -85,7 +83,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "AI/Learning Tensorflow/003 Regression Models/10 Visualizing the Loss.md",
+                "file": "AI/Learning Tensorflow/004 Classification/images/Pasted image 20231227131315.png",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +100,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "AI/Learning Tensorflow/003 Regression Models/10 Visualizing the Loss.md",
+                "file": "AI/Learning Tensorflow/004 Classification/images/Pasted image 20231227131315.png",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +123,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "AI/Learning Tensorflow/003 Regression Models/10 Visualizing the Loss.md"
+                "file": "AI/Learning Tensorflow/004 Classification/images/Pasted image 20231227131315.png"
               }
             }
           },
@@ -135,7 +133,9 @@
             "state": {
               "type": "all-properties",
               "state": {
-                "sortOrder": "frequency"
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
               }
             }
           }
@@ -158,8 +158,23 @@
       "obsidian-advanced-slides:Show Slide Preview": false
     }
   },
-  "active": "ab074d6e496be79e",
+  "active": "d53b5dd947f30169",
   "lastOpenFiles": [
+    "AI/Learning Tensorflow/004 Classification/04 binary classification second attempt.md",
+    "AI/Learning Tensorflow/004 Classification/images/Pasted image 20231227131315.png",
+    "AI/Learning Tensorflow/004 Classification/02 binary classification first attempt.md",
+    "AI/Learning Tensorflow/004 Classification/04 binary classification.md",
+    "AI/Learning Tensorflow/004 Classification/03 visualizing the data and predictions.md",
+    "AI/Learning Tensorflow/004 Classification/images/Pasted image 20231227125114.png",
+    "AI/Learning Tensorflow/004 Classification/01 what is a classification problem.md",
+    "2023-12-27.md",
+    "Untitled.canvas",
+    "AI/Learning Tensorflow/004 Classification/images",
+    "AI/Learning Tensorflow/004 Classification/images/Pasted image 20231227124758.png",
+    "Excalidraw/Drawing 2023-12-27 11.38.57.excalidraw.md",
+    "AI/Learning Tensorflow/004 Classification/03 visualizing the model.md",
+    "AI/Learning Tensorflow/004 Classification/images/Pasted image 20231226194100.png",
+    "AI/Learning Tensorflow/003 Regression Models/10 Visualizing the Loss.md",
     "AI/Learning Tensorflow/003 Regression Models/11 Using Normalization to Improve Medical Cost Data Set.md",
     "AI/Learning Tensorflow/003 Regression Models/Images/Pasted image 20231220235618.png",
     "Android/flashing custom rom.md",
@@ -181,31 +196,15 @@
     "Linux/Networking/Orange Pi Network Issue.md",
     "Linux/TTY/Setting the font permenantly.md",
     "AI/Learning Tensorflow/002 Tensor Fundamental/05 Random Tensors.md",
-    "Linux/Nix/nix flake/Updating home manager.md",
-    "Linux/Nix/nix flake/Untitled.md",
-    "Maths/Variance.md",
-    "AI/Learning Tensorflow/002 Tensor Fundamental/15 Min Max Position.md",
-    "Maths/Probability/02 Uniform Probability Distribution.md",
-    "Maths/Probability/01 Probability Basics.md",
     "Maths/Probability/Uniform Distribution.png",
-    "Maths/Probability/Normal Probability Distribution.md",
     "Maths/Probability/Normal Distribution.png",
-    "AI/Learning Tensorflow/002 Tensor Fundamental/01 Creating Tensors.md",
     "Maths/Untitled",
-    "AI/Learning Tensorflow/002 Tensor Fundamental/09 Indexing Tensors.md",
-    "AI/Learning Tensorflow/002 Tensor Fundamental/08 Attributes of Tensors.md",
     "Linux/Networking/IWD",
     "Linux/Nix/nix flake",
     "Linux/Nix/nix-pill",
     "Linux/TTY",
     "Rust/Rustup",
     "Rust/World's Best Dark-Mode Toggle",
-    "AI/Learning Tensorflow/002 Tensor Fundamental/06 Shuffle",
-    "Maths/Probability",
-    "Untitled.canvas",
-    "export/2023 Arch Linux Installation/plugin/chalkboard/img/blackboard.png",
-    "export/2023 Arch Linux Installation/plugin/chalkboard/img/boardmarker-black.png",
-    "export/2023 Arch Linux Installation/plugin/chalkboard/img/boardmarker-blue.png",
-    "export/2023 Arch Linux Installation/plugin/chalkboard/img/boardmarker-green.png"
+    "AI/Learning Tensorflow/002 Tensor Fundamental/06 Shuffle"
   ]
 }
