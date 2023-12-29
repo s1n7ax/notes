@@ -11,9 +11,11 @@
             "id": "ea6847feabc797bf",
             "type": "leaf",
             "state": {
-              "type": "image",
+              "type": "markdown",
               "state": {
-                "file": "AI/Learning Tensorflow/004 Classification/images/Pasted image 20231227131315.png"
+                "file": "AI/Learning Tensorflow/004 Classification/05 find idial learning rate.md",
+                "mode": "source",
+                "source": false
               }
             }
           }
@@ -83,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "AI/Learning Tensorflow/004 Classification/images/Pasted image 20231227131315.png",
+                "file": "AI/Learning Tensorflow/004 Classification/05 find idial learning rate.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -100,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "AI/Learning Tensorflow/004 Classification/images/Pasted image 20231227131315.png",
+                "file": "AI/Learning Tensorflow/004 Classification/05 find idial learning rate.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -123,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "AI/Learning Tensorflow/004 Classification/images/Pasted image 20231227131315.png"
+                "file": "AI/Learning Tensorflow/004 Classification/05 find idial learning rate.md"
               }
             }
           },
@@ -160,7 +162,11 @@
   },
   "active": "d53b5dd947f30169",
   "lastOpenFiles": [
+    "AI/Learning Tensorflow/004 Classification/images/Pasted image 20231228221226.png",
+    "AI/Learning Tensorflow/004 Classification/images/Pasted image 20231228220955.png",
     "AI/Learning Tensorflow/004 Classification/04 binary classification second attempt.md",
+    "AI/Learning Tensorflow/004 Classification/05 find idial learning rate.md",
+    "AI/Learning Tensorflow/004 Classification/05 dynamic learning rate.md",
     "AI/Learning Tensorflow/004 Classification/images/Pasted image 20231227131315.png",
     "AI/Learning Tensorflow/004 Classification/02 binary classification first attempt.md",
     "AI/Learning Tensorflow/004 Classification/04 binary classification.md",
@@ -194,10 +200,7 @@
     "AI/Learning Tensorflow/003 Regression Models/07 Trainable & Non Trainable Parameters.md",
     "SSH/SSH between two computers.md",
     "Linux/Networking/Orange Pi Network Issue.md",
-    "Linux/TTY/Setting the font permenantly.md",
-    "AI/Learning Tensorflow/002 Tensor Fundamental/05 Random Tensors.md",
     "Maths/Probability/Uniform Distribution.png",
-    "Maths/Probability/Normal Distribution.png",
     "Maths/Untitled",
     "Linux/Networking/IWD",
     "Linux/Nix/nix flake",
