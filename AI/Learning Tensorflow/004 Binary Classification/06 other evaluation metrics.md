@@ -33,3 +33,5 @@ array([[ 97,   0],
        [  0, 103]])
 """
 ```
+
+### Pretty Confusion Matrix
