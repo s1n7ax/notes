@@ -43,20 +43,42 @@ print(len(os.listdir("pizza_steak/test/pizza")), len(os.listdir("pizza_steak/tes
 """
 
 # view random images from the data
-import random
+from tensorflow.keras.utils import image_dataset_from_directory
+import pathlib
+
+tf.random.set_seed(42)
+
+train_dir = pathlib.Path("pizza_steak/train")
+test_dir = pathlib.Path("pizza_steak/test")
+
+train_data = image_dataset_from_directory(
+    directory=train_dir,
+    batch_size=32,
+    image_size=(224, 224),
+    label_mode="binary",
+    seed=42
+)
+
+valid_data = image_dataset_from_directory(
+    directory=test_dir,
+    batch_size=32,
+    image_size=(224, 224),
+    label_mode="binary",
+    seed=42
+)
+
 import matplotlib.pyplot as plt
-import matplotlib.image as mpimg
-
-def view_random_image(target_dir, target_class):
-    images_path = target_dir + "/" + target_class
-    rand_img = random.sample(os.listdir(images_path), 1)
-    image_path = images_path + '/' + rand_img[0]
-
-    image = mpimg.imread(image_path)
-    plt.imshow(image)
-    plt.title(target_class + f" [shape: {image.shape}]")
-    plt.axis('off')
 
 
-view_random_image('pizza_steak/train', 'pizza')
+class_names = train_data.class_names
+
+plt.figure(figsize=(10, 10))
+for images, labels in train_data.take(1):
+  for i in range(9):
+    ax = plt.subplot(3, 3, i + 1)
+    plt.imshow(images[i].numpy().astype("uint8"))
+    plt.title(class_names[int(labels[i][0].numpy())])
+    plt.axis("off")
 ```
+
+![](assets/2024-01-03-23-47-30.png)

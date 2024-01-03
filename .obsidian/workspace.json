@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "AI/Learning Tensorflow/005 Multi-class Classification/03 prettier confusion matrix.md",
+                "file": "AI/Learning Tensorflow/006 Computer Vision with CNN/02 food 101 binary classification - building CNN.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "AI/Learning Tensorflow/005 Multi-class Classification/03 prettier confusion matrix.md",
+                "file": "AI/Learning Tensorflow/006 Computer Vision with CNN/02 food 101 binary classification - building CNN.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "AI/Learning Tensorflow/005 Multi-class Classification/03 prettier confusion matrix.md",
+                "file": "AI/Learning Tensorflow/006 Computer Vision with CNN/02 food 101 binary classification - building CNN.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "AI/Learning Tensorflow/005 Multi-class Classification/03 prettier confusion matrix.md"
+                "file": "AI/Learning Tensorflow/006 Computer Vision with CNN/02 food 101 binary classification - building CNN.md"
               }
             }
           },
@@ -160,8 +160,10 @@
       "obsidian-advanced-slides:Show Slide Preview": false
     }
   },
-  "active": "d53b5dd947f30169",
+  "active": "ea6847feabc797bf",
   "lastOpenFiles": [
+    "AI/Learning Tensorflow/006 Computer Vision with CNN/01 food 101 binary classification - visualizing data.md",
+    "AI/Learning Tensorflow/005 Multi-class Classification/03 prettier confusion matrix.md",
     "AI/Learning Tensorflow/005 Multi-class Classification/images",
     "AI/Learning Tensorflow/005 Multi-class Classification/images/Pasted image 20240102120624.png",
     "AI/Learning Tensorflow/005 Multi-class Classification/02 normalizing fashion mnist data.md",
@@ -200,14 +202,12 @@
     "AI/Learning Tensorflow/003 Regression Models/Images/Pasted image 20231020221539.png",
     "AI/Learning Tensorflow/003 Regression Models/Images",
     "AI/Learning Tensorflow/003 Regression Models/07 Trainable & Non Trainable Parameters.md",
-    "SSH/SSH between two computers.md",
     "Maths/Untitled",
     "Linux/Networking/IWD",
     "Linux/Nix/nix flake",
     "Linux/Nix/nix-pill",
     "Linux/TTY",
     "Rust/Rustup",
-    "Rust/World's Best Dark-Mode Toggle",
-    "AI/Learning Tensorflow/002 Tensor Fundamental/06 Shuffle"
+    "Rust/World's Best Dark-Mode Toggle"
   ]
 }

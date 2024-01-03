@@ -3,6 +3,7 @@ nix-env --list-generations
 
 nix-collect-garbage  --delete-old
 
+# this does not work
 nix-collect-garbage  --delete-generations 1 2 3
 
 # recommeneded to sometimes run as sudo to collect additional garbage
