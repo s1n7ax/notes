@@ -35,6 +35,14 @@ valid_data = image_dataset_from_directory(
 )
 
 model = tf.keras.models.Sequential([
+    # there is Normalization layer but it's not meant to be used for auto normalization
+    # meaning, it will figure out how to normalize based on mean and variance
+    # So in the case of an image, where the value could be 0 min and 255 max, we could use
+    # Rescale to normalize the input data instead
+    # tf.keras.layers.Normalization(axis=-1),
+
+    # rescale layer will multiply the vector by the scale factor
+    tf.keras.layers.Rescaling(scale=1/255)
     tf.keras.layers.Conv2D(filters=10,
                            kernel_size=3,
                            activation="relu",
