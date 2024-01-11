@@ -21,6 +21,17 @@ feature map size will be reduced by half after the max pooling layer.
 In following example, max pooling layers reduce the feature map by 50x but
 improve the accuracy.
 
+```text
+# with max pooling
+Total params: 8861 (34.61 KB)
+accuracy: 0.8207 - val_loss: 0.5677 - val_accuracy: 0.7440
+
+
+# without max pooling
+Total params: 477341 (1.82 MB)
+accuracy: 0.9527 - val_loss: 34.2759 - val_accuracy: 0.7200
+```
+
 ![How max pooling works](../../../assets/2024-01-11-18-27-15.png)
 
 ### CNN without max pooling layers
