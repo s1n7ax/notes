@@ -9,12 +9,14 @@
 
 ### Images into batches
 
-#### Why
+#### Why make image batches
 
-- There might not be enough memory to fit all the images into memory at the same time
-- Trying to learn many images in one go could result in the model not being able to learn very well
+- There might not be enough memory to fit all the images into memory at the same
+  time
+- Trying to learn many images in one go could result in the model not being able
+  to learn very well
 
-#### How
+#### How to make batches
 
 ```python
 import tensorflow as tf
@@ -40,11 +42,11 @@ print(i.shape)
 
 ### Data normalization
 
-#### Why
+#### Why data normalization
 
 - When the data is normalized, it tend to perform better
 
-#### How
+#### How to normalize data
 
 ```python
 input = tf.constant([[2, 34, 255],

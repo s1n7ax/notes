@@ -81,4 +81,4 @@ for images, labels in train_data.take(1):
     plt.axis("off")
 ```
 
-![](assets/2024-01-03-23-47-30.png)
+![output](assets/2024-01-03-23-47-30.png)

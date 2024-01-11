@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "AI/Learning Tensorflow/006 Computer Vision with CNN/02 food 101 binary classification - building CNN.md",
+                "file": "AI/Learning Tensorflow/006 Computer Vision with CNN/04 understanding CNN - data preparation.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "AI/Learning Tensorflow/006 Computer Vision with CNN/02 food 101 binary classification - building CNN.md",
+                "file": "AI/Learning Tensorflow/006 Computer Vision with CNN/04 understanding CNN - data preparation.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "AI/Learning Tensorflow/006 Computer Vision with CNN/02 food 101 binary classification - building CNN.md",
+                "file": "AI/Learning Tensorflow/006 Computer Vision with CNN/04 understanding CNN - data preparation.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "AI/Learning Tensorflow/006 Computer Vision with CNN/02 food 101 binary classification - building CNN.md"
+                "file": "AI/Learning Tensorflow/006 Computer Vision with CNN/04 understanding CNN - data preparation.md"
               }
             }
           },
@@ -162,7 +162,9 @@
   },
   "active": "ea6847feabc797bf",
   "lastOpenFiles": [
+    "AI/Learning Tensorflow/006 Computer Vision with CNN/04 understanding CNN - data preparation.md~",
     "AI/Learning Tensorflow/006 Computer Vision with CNN/01 food 101 binary classification - visualizing data.md",
+    "AI/Learning Tensorflow/006 Computer Vision with CNN/02 food 101 binary classification - building CNN.md",
     "AI/Learning Tensorflow/005 Multi-class Classification/03 prettier confusion matrix.md",
     "AI/Learning Tensorflow/005 Multi-class Classification/images",
     "AI/Learning Tensorflow/005 Multi-class Classification/images/Pasted image 20240102120624.png",
@@ -198,10 +200,8 @@
     "AI/Learning Tensorflow/003 Regression Models/Images/Pasted image 20231024182807.png",
     "Linux/Rclone/Sync Dropbox with Rclone.md",
     "Linux/OpenVPN/Persistent password.md",
-    "Linux/OpenVPN/Setting Up OpenVPN.md",
     "AI/Learning Tensorflow/003 Regression Models/Images/Pasted image 20231020221539.png",
     "AI/Learning Tensorflow/003 Regression Models/Images",
-    "AI/Learning Tensorflow/003 Regression Models/07 Trainable & Non Trainable Parameters.md",
     "Maths/Untitled",
     "Linux/Networking/IWD",
     "Linux/Nix/nix flake",
