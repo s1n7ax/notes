@@ -1,7 +1,7 @@
 # Nix Language Basics
 
-NOTE: Everything is an **expression** in nix language
-NOTE: Values in Nix are **immutable**
+- **NOTE:** Everything is an **expression** in nix Language
+- **NOTE:** Values in Nix are **immutable**
 
 ## Types in Nix
 
@@ -64,7 +64,8 @@ nix-repl> ''''${name}''
 
 ## Lists
 
-NOTE: Adding and removing from a list is possible but will return a new list since everything is mutable in nix.
+NOTE: Adding and removing from a list is possible but will return a new list
+since everything is mutable in nix.
 
 - Lists can be defined withing square brackets
 - List items are separated by space

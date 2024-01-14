@@ -1,0 +1,20 @@
+# Why I use Linux
+
+- Available Choices
+  - Distributions
+    - Ubuntu
+    - Debian
+    - Arch Linux
+    - NixOS
+    - Gentoo
+  - Desktop Environment/Window Manager
+    - Desktop Environment
+      - KDE Plasma
+      - Gnome
+    - Window Manager
+      - i3 (X11)
+      - DWM (X11)
+      - Hyprland (Wayland)
+- Innovations
+  - Audio (Pipewire)
+  - Compositer
