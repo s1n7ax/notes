@@ -40,7 +40,9 @@ plt.title("ACCURACY")
 plt.xlabel("epochs")
 ```
 
-![loss curve](../../../assets/2024-01-14-13-29-14.png)
+![loss before data augmentation](../../../assets/2024-01-14-18-48-31.png)
+
+![accuracy before data augmentation](../../../assets/2024-01-14-18-48-48.png)
 
 ### Understanding What's Causing the Inaccuracy
 
@@ -80,4 +82,6 @@ model = tf.keras.Sequential(
 )
 ```
 
-![loss curve after data augmentation](../../../assets/2024-01-14-13-53-08.png)
+![loss after data augmentation](../../../assets/2024-01-14-18-54-47.png)
+
+![accuracy after data augmentation](../../../assets/2024-01-14-18-55-09.png)
