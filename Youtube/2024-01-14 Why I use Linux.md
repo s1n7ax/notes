@@ -2,6 +2,7 @@
 
 - Available Choices
   - Distributions
+    - Pop OS / Linux Mint
     - Ubuntu
     - Debian
     - Arch Linux
@@ -16,5 +17,5 @@
       - DWM (X11)
       - Hyprland (Wayland)
 - Innovations
-  - Audio (Pipewire)
-  - Compositer
+  - Pipewire Audio
+  - Wayland Compositor
