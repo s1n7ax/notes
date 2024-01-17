@@ -46,7 +46,6 @@ nvidia-smi
 # if the GPU is detected, then the list should contain at least one GPU
 python3 -c "import tensorflow as tf; print(tf.config.list_physical_devices('GPU'))"
 
-"""
-[PhysicalDevice(name='/physical_device:GPU:0', device_type='GPU')]
-"""
+# output
+# [PhysicalDevice(name='/physical_device:GPU:0', device_type='GPU')]
 ```
