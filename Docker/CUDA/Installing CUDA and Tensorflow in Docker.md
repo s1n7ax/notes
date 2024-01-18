@@ -1,5 +1,9 @@
 # Installing CUDA in Docker
 
+## Compose file
+
+[docker-tensorflow-with-cuda](https://github.com/s1n7ax/docker-tensorflow-with-cuda)
+
 ## Steps
 
 - Install the Nvidia driver in the host machine
