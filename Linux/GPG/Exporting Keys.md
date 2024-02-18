@@ -1,3 +1,5 @@
+# Exporting keys
+
 - Use following command to export the key to a file
 
 ```shell
@@ -15,3 +17,4 @@ gpg --list-secret-keys
 ```shell
 gpg --import <path to key>
 ```
+
