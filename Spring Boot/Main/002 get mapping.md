@@ -6,10 +6,10 @@
 @RestController
 public class HelloWorld {
 
-	@RequestMapping(method = RequestMethod.GET, path = "/hello-world")
-	public String greet() {
-		return "Hello World!";
-	}
+ @RequestMapping(method = RequestMethod.GET, path = "/hello-world")
+ public String greet() {
+  return "Hello World!";
+ }
 }
 ```
 
@@ -19,9 +19,9 @@ public class HelloWorld {
 @RestController
 public class HelloWorld {
 
-	@GetMapping("/hello-world")
-	public String greet() {
-		return "Hello World";
-	}
+ @GetMapping("/hello-world")
+ public String greet() {
+  return "Hello World";
+ }
 }
 ```

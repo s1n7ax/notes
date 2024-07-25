@@ -9,9 +9,9 @@ record HelloWorldRecord(String greeting) {
 @RestController
 public class HelloWorld {
 
-	@GetMapping("/hello-world")
-	public HelloWorldRecord greet() {
-		return new HelloWorldRecord("Hello World");
-	}
+ @GetMapping("/hello-world")
+ public HelloWorldRecord greet() {
+  return new HelloWorldRecord("Hello World");
+ }
 }
 ```
