@@ -2,7 +2,8 @@
 
 ## List databases
 
-`\l` - list the databases (following 3 databases are default databases)
+`\l` is the shorthand command to list all the databases
+`SELECT * FROM "pg_catalog"."pg_database";` query also retrieves the databases
 
 ```
 postgres=# \l

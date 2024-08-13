@@ -1,5 +1,7 @@
 # Tables
 
+## Show all the existing tables
+
 ## Create a tables
 
 ```sql
@@ -7,7 +9,7 @@
 #     <column name> <data type> <constraints if any>
 # );
 
-CREATE TABLE person (
+CREATE TABLE public.person (
     id INT NOT NULL PRIMARY KEY,
     name VARCHAR(50) NOT NULL,
     age INT NOT NULL,
