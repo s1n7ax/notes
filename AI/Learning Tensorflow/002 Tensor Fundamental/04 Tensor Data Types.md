@@ -5,7 +5,9 @@
 - Auto data type
 - Set data type on creation
 
-## Auto dtype
+## Content
+
+### Auto dtype
 
 Type will be determined based on the value being passed
 
@@ -19,7 +21,7 @@ tf.constant(7.)
 # <tf.Tensor: shape=(), dtype=float32, numpy=1.0>
 ```
 
-## Specify the type
+### Specify the type
 
 `dtype` keyword argument can be used to specify the type of the parameter
 

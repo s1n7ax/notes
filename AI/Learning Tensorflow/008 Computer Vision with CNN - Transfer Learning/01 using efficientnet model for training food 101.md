@@ -1,18 +1,18 @@
-# Using Efficientnet Model for Food 101
+# Using EfficientNet Model for Food 101
 
 ## Summary
 
-- What is transfer learining
+- What is transfer learning
 - What is feature extraction
-- How to use efficientnet model to train on food 101 dataset
+- How to use `efficientnet` model to train on food 101 dataset
 
 ## Content
 
-### What is transfer learining
+### What is transfer learning
 
 ### What is feature extraction
 
-### How to use efficientnet model to train on food 101 dataset
+### How to use `efficientnet` model to train on food 101 dataset
 
 ```python
 import tensorflow as tf

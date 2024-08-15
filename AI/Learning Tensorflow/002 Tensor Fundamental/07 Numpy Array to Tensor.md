@@ -1,12 +1,12 @@
-# Numpy Arary to Tensor
+# Numpy Array to Tensor
 
 ## Summary
 
-- Converting numpy data to tensor
+- Converting `numpy` data to tensor
 
 ## Content
 
-Numpy arrays can easily be converted to Tensor
+`Numpy` arrays can easily be converted to Tensor
 
 ```python
 import numpy as np

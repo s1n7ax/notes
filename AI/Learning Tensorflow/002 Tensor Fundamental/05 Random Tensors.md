@@ -15,7 +15,7 @@ There are many ways to create random tensors but following APIs will be consider
 - `random.uniform`
   More info in [[02 Uniform Probability Distribution]]
 
-## Creating Random Tensors
+### Creating Random Tensors
 
 ```python
 rand = tf.random.Generator.from_seed(2)

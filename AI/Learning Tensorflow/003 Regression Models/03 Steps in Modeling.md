@@ -2,10 +2,10 @@
 
 ## Summary
 
-1. Creating a model (Define the structure)
-2. Compiling a model (Create the model)
-3. Fitting a model (Train)
-4. Evaluate
+- Creating a model (Define the structure)
+- Compiling a model (Create the model)
+- Fitting a model (Train)
+- Evaluate
 
 ## Content
 

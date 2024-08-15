@@ -8,7 +8,9 @@ Mainly, we will talk about following data types
 - Vector
 - Multi-Dimensional (Matrix)
 
-## Scalar
+## Content
+
+### Scalar
 
 - Creating a scalar
 
@@ -17,7 +19,7 @@ tf.constant(7)
 # <tf.Tensor: shape=(), dtype=int32, numpy=7>
 ```
 
-## Vector
+### Vector
 
 - Creating a vector
 
@@ -26,7 +28,7 @@ tf.constant([1, 2, 3])
 # <tf.Tensor: shape=(3,), dtype=int32, numpy=array([1, 2, 3], dtype=int32)>
 ```
 
-## Matrix
+### Matrix
 
 - Creating a matrix
 

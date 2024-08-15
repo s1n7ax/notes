@@ -2,14 +2,14 @@
 
 ## Summary
 
-- tf.constant()
-- tf.Variable()
+- `tf.constant()`
+- `tf.Variable()`
 
 # Creating Tensors
 
-1. tf.constant()
+1. `tf.constant()`
    - Once created, cannot be changed
-2. tf.Variable()
+2. `tf.Variable()`
    - Can be mutated
 
 ## Constant function

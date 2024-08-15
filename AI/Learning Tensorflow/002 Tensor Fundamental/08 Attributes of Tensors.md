@@ -5,7 +5,7 @@
 - Shape
 - Rank
 - Axis
-- Dtype
+- Data type
 
 ## Content
 
@@ -23,7 +23,7 @@ tf.tensor.shape()
 tf.tensor.ndim()
 ```
 
-3. **Axis|Dimension** - Perticular dimension of a tensor
+3. **Axis|Dimension** - Particular dimension of a tensor
 
 ```python
 tensor[n]

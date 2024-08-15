@@ -2,8 +2,8 @@
 
 ## Summary
 
-- tf.newaxis
-- tf.expand_dims()
+- `tf.newaxis`
+- `tf.expand_dims()`
 
 ## Content
 
