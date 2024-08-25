@@ -22,8 +22,10 @@ Ex:-
 Both of the following words has the same set of characters so encoding each
 letter individually makes it hard to get the meaning.
 
+```text
 S I L E N T
 L I S T E N
+```
 
 So instead of encoding each characters, word or words will be tokenized
 
