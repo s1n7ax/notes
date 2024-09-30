@@ -1,6 +1,7 @@
 # Default Bridge
 
 When containers are ran using `docker run` without specifying the network name, the **default bridge** will be used.
+
 #### Finding default bridge
 
 ```shell

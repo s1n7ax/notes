@@ -73,5 +73,4 @@ torch.rand_like(tensor, dtype=torch.float)
 tensor([[0.2383, 0.7600],
         [0.1299, 0.0575]])
 """
-
 ```
